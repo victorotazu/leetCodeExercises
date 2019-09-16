@@ -1,0 +1,7 @@
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\bin\Debug\2sum.exe.config
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\bin\Debug\2sum.exe
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\bin\Debug\2sum.pdb
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\obj\Debug\2sum.csprojAssemblyReference.cache
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\obj\Debug\2sum.csproj.CoreCompileInputs.cache
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\obj\Debug\2sum.exe
+D:\DevProjects\leet\leetCodeExercises\ex1\2sum\obj\Debug\2sum.pdb
